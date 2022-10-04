@@ -1,0 +1,4 @@
+The Content Box 
+    The first box is content box, everything goes inside it.
+    Even if it is images or videos, everything was inside this content box.
+    Every single element on a web page has these four boxes, the margin, border and padding boxes are invisible unless we specify them

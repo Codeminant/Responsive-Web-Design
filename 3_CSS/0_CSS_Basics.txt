@@ -24,4 +24,10 @@ Syntax
 
  3.External Style Sheet 
     External CSS are stored in CSS Files
+    Link Tag is used to add the External Style Sheet to the document. 
+    Syntax :
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
 

@@ -1,0 +1,72 @@
+body {
+    padding-top: 100px;
+    font-family: Arial, sans-serif; /* Here if Arial is not available any sans-serif font will be applied */
+    color: #333; /* The color mentioned here is for text */
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 30px;
+}
+h1, h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+p{
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 20px; /* Which is 150% of the font-size */
+
+}
+
+.main-container {
+    width: 100%;
+    margin: 0 auto;
+}
+.single-row {
+    width:100%;
+}
+/*Header*/
+.col-left {
+    width: 63%;
+}
+
+.col-left img{
+    width: 100%;
+    border-radius: 6px;
+}
+
+.col-right {
+    width: 32%;
+}
+.col-left, .col-right {
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+.btn{
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 28px;
+    border-radius: 6px;
+    color: #fff; 
+    background-color: #337ab7;   
+    text-decoration: none;    
+    display: inline-block;
+    text-transform: uppercase;
+}
+.clear-fix {
+    clear:both;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border:0;
+    border-top:1px solid #eee;
+}
+
