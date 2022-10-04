@@ -5,8 +5,7 @@ Why Icons?
     - List different product.
     - Use icons for services list.
 
-Resources : 
+Resources :
 
     https://www.s-ings.com/typicons/
     https://fontawesome.com/
-    

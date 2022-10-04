@@ -6,7 +6,7 @@ Why Images?
     -What message an Image send
     -Brand related image.
 
-Suggestions : 
+Suggestions :
 
     Selection of images good for the content.
     Use effective images, good qulaity.
@@ -14,10 +14,11 @@ Suggestions :
     Use high resloution images, otherwise on different displays it will show poor result.
     Add titles to images for SEO.
 
-*Note : "The Average Web Page is 1.28 MB 61.5% of that is attributed to images."
+*Note : "The Average Web Page is 1.28 MB 61.5% of that is attributed to
+images."
 
-Resources : 
-   
+Resources :
+
     http://www.imgopt.com/
     https://kraken.io/web-interface
     https://tinypng.com/

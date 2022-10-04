@@ -1,6 +1,5 @@
-Web Color Formats
-        rgb format : (red, green, blue)
-        hexadecimal format : #RRGGBB
+Web Color Formats rgb format : (red, green, blue) hexadecimal format :
+\#RRGGBB
 
 Suggestions :
 
@@ -14,4 +13,3 @@ Resources :
     Adobe Color : https://color.adobe.com/create
     Paletton : https://paletton.com/
     Colrd : http://colrd.com/image-dna/
-    

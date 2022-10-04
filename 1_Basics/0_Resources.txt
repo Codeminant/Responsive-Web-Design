@@ -1,9 +1,7 @@
-WIREFRAMING :
-    https://www.mybalsamiq.com
-    https://www.gliffy.com/uses/wireframe-software/
-    https://www.mockflow.com/
-    https://gomockingbird.com/home
-    http://www.justinmind.com/free
+WIREFRAMING : https://www.mybalsamiq.com
+https://www.gliffy.com/uses/wireframe-software/
+https://www.mockflow.com/ https://gomockingbird.com/home
+http://www.justinmind.com/free
 
 UX/ UI (User Experience & User Interface):
 
