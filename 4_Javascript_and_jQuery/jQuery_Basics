@@ -1,0 +1,11 @@
+- jQuery is a Javascript Library.
+- jQuery is a lightweight, "write less, do more", Javascript Library.
+
+- jQuery Syntax
+
+    This is the basic syntax, all jQuery Code goes inside this.
+
+        $(document).ready(function(){
+            //jQuery Code
+        });
+

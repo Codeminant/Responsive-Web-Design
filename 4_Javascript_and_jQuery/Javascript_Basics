@@ -1,0 +1,10 @@
+Javascript is a programming language used to make web pages interactive! on the visitors computer.
+It's a client side programming language and runs inside browser.
+
+- Adding JS to HTML
+
+    <head>  
+            <script>
+                        alert('Hello World!');
+            </script>
+    </head>
