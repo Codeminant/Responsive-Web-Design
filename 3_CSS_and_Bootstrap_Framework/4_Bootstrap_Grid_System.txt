@@ -1,0 +1,23 @@
+Bootstrap grid sysytem
+
+    Allow 12 coloumns across a page.
+    Can group coloumns to creat wider coloumns.
+    Coloumns will rearange depending on the screen size.
+    Bootstrap grid sysytem is made upo of three things.
+        1. Container
+        2. Rows
+        3. Coloumns
+    
+    Basic structure of Bootstrap Grid.
+
+        <div class="container">
+            
+            <div class="row">
+
+                    <div class="col-*-*">
+                        // Content Here
+                    </div>
+
+            </div>
+
+        </div>

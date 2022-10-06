@@ -1,0 +1,23 @@
+id : they are unique identifier in css.
+
+    <p id = "id_name"> Content goes here </p>
+
+classes :   they are not unique, same class can be used for multiple elements.
+
+    <p class = "class-name"> Content One </p>
+
+    <p class = "class-name"> Content Two </p>
+
+    <p class = "class-name"> Content Three </p>
+
+Syntax of External Stylesheet
+
+    In CSS Stylesheet:
+    
+    #id_name {
+            // CSS Property
+    }
+
+    .class {
+            // CSS Property
+    }

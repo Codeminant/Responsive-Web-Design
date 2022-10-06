@@ -7,5 +7,12 @@
 
         $(document).ready(function(){
             //jQuery Code
+            alert("Hi Welcome");
         });
 
+- How to add jQuery to the project?
+
+    Download the uncompressed, development jQuery from here : https://jquery.com/download/
+    Move the file to js folder of project and add the source in <script> tag.
+
+    
