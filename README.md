@@ -1,7 +1,4 @@
 ![RWD000](https://user-images.githubusercontent.com/97903560/194434005-c1251894-53d6-4f7a-b206-4b30055f50ef.png)
-
-
-
 ### This repository is a documentiation of Basic HTML, CSS, Bootstrap and Responsive Web Design.
 ---
 
