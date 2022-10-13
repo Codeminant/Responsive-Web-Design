@@ -11,3 +11,96 @@ body{
 p{
     font-size: 14px;
 }
+
+/* ====== HEADER ====== */
+.header{
+    background-image: url("../images/AvatarSimpleBg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    /* Prefix for browser Mozilla | Opera | Chrome and Safari | */
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+
+}
+
+.header-overlay{
+    background-color: rgba(255, 255, 255, 0); /* Since Alpha(Opacity) is set 0, it has no effect */
+}
+
+.logo{
+    padding-bottom: 50px;
+}
+
+.header-text h1 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 45px;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+.header-text p {
+    color: #fff;
+    font-size: 17px;
+    line-height: 28px;
+    font-weight:300;
+}
+
+.header-btns {
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.btn-download,
+.btn-download:focus,
+.btn-download:active,
+.btn-download:visited
+{
+    background: transparent;
+    border-color: #ffffff;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size:19px;
+    border-radius:3px;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+} 
+
+.btn-download:hover {
+    background-color: #ee8d30;
+    color: rgb(238,141,48);
+}
+
+.btn-tour,
+.btn-tour:focus,
+.btn-tour:active,
+.btn-tour:visited
+{
+ color:#ffffff;
+ margin-left: 20px;
+ text-transform: uppercase;
+ font-size: 19px;
+ font-weight: 500;
+ background: transparent;
+ transition: all 1s;
+ -webkit-transition: all 1s;
+ -moz-transition: all 1s;
+ -o-transition: all 1s;
+}
+
+
+.btn-tour:hover {
+    background-color: #ee8d30;
+    color: rgb(238,141,48);
+}
+
+.header-poster img{
+    width: 100%
+}
