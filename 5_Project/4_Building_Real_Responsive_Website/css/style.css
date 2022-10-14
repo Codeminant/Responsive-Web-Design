@@ -35,18 +35,18 @@ p{
 }
 
 .header-text h1 {
-    color: #fff;
-    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
     font-weight: 300;
-    line-height: 45px;
+    line-height: 30x;
     padding-top: 30px;
     text-transform: uppercase;
 }
 
 .header-text p {
-    color: #fff;
-    font-size: 17px;
-    line-height: 28px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 24px;
     font-weight:300;
 }
 
@@ -102,5 +102,11 @@ p{
 }
 
 .header-poster img{
-    width: 100%
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 50px;
 }
+
+hr.header-end-line {
+        border-top: 8px solid rgb(255, 255, 255);
+  }
