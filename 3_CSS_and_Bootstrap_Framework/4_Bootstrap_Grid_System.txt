@@ -3,7 +3,8 @@ Bootstrap grid sysytem
     Allow 12 coloumns across a page.
     Can group coloumns to creat wider coloumns.
     Coloumns will rearange depending on the screen size.
-    Bootstrap grid sysytem is made upo of three things.
+    Bootstrap grid sysytem is made up of three things.
+
         1. Container
         2. Rows
         3. Coloumns

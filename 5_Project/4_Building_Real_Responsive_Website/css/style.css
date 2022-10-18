@@ -11,8 +11,43 @@ body{
 p{
     font-size: 14px;
 }
+/* ================================== Generic CSS ============================= */
+.section-title{
+    padding-top: 90px;
+    padding-bottom:50px;
+}
 
-/* ====== HEADER ====== */
+.section-title h2{
+    position: relative;
+    text-align: center;
+    color: #333;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.section-title h2:after{
+    content:"";
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    width:60px;
+    height: 1px;
+    background-color: #129CF3;
+    margin-left: -30px;
+
+}
+
+.section-title p{
+     color: #333;
+     font-size: 18px;
+     line-height: 28px;
+     font-weight:300;
+     text-align: center;
+     margin-top: 45px;
+     font-size: 18px;
+}
+/* ================================== HEADER ================================= */
 .header{
     background-image: url("../images/AvatarSimpleBg.jpg");
     background-attachment: fixed;
@@ -110,3 +145,15 @@ p{
 hr.header-end-line {
         border-top: 8px solid rgb(255, 255, 255);
   }
+
+ /* ================================== Overview Section ================================= */
+
+  .avatar-overview{
+    padding-top: 50px;
+  }
+
+  .about-avatar img{
+    margin-top: 8px;
+    border-radius: 20px;
+  }
+
