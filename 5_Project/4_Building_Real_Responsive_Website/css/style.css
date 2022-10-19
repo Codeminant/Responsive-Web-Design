@@ -144,16 +144,91 @@ p{
 
 hr.header-end-line {
         border-top: 8px solid rgb(255, 255, 255);
-  }
+}
 
  /* ================================== Overview Section ================================= */
 
-  .avatar-overview{
+.avatar-overview{
     padding-top: 50px;
-  }
-
-  .about-avatar img{
-    margin-top: 8px;
+}
+.about-avatar h2{
+    text-transform: uppercase;
+    margin-left: 200px;
+    padding-top: 10px;
+    font-weight:800;
+    font-size:30px;
+    line-height:37px;
+    color:#ffac47;
+}
+.about-avatar img{
+    margin-top: 50px;
     border-radius: 20px;
-  }
+}
 
+.episodes-title{
+    padding-bottom: 50px;
+}
+.episodes-title h2{
+    text-transform: uppercase;
+    padding-top: 10px;
+    font-weight:800;
+    font-size:30px;
+    line-height:37px;
+    position:relative; /* This is relative since an underline will be added*/
+
+}
+
+.episodes-title h2:after{
+    content:"";
+    position:absolute;
+    bottom:-12px;
+    left:0;
+    width:70px;
+    height:1px;
+    background-color: #129CF3;
+}
+
+.episodes-title p{
+    margin-top: 40px;
+    font-size:19px;
+    line-height:24px;
+}
+
+.episodes-item{
+    position:relative;
+    padding-bottom: 4px;
+    padding-left: 80px;
+}
+
+.episodes-item div{
+    position:absolute;
+    top:0;
+    left:0; 
+}
+
+.episodes-item div i{
+    font-size: 55px;
+    transition:all 1s;
+    -webkit-transition:all 1s;
+    -o-transition:all 1s;
+    -moz-transition:all 1s;
+}
+#water-icon{
+    color: #d4f1f9;
+}
+#earth-icon{
+    color: #3A5F0B;
+}
+#fire-icon{
+    color: #e25822;
+}
+.episodes-item h3{
+    color:#343434;
+    text-transform:uppercase;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.episodes-item p{
+    color:#727272;
+}
