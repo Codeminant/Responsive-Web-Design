@@ -66,6 +66,7 @@ p{
 }
 
 .logo{
+    padding-top: 10px;
     padding-bottom: 50px;
 }
 
@@ -141,13 +142,10 @@ p{
     border-radius: 15px;
     margin-bottom: 50px;
 }
-
-hr.header-end-line {
-        border-top: 8px solid rgb(255, 255, 255);
+/* ================================== Overview Section ================================= */
+.overview-section{
+    background-color: #c5d5cb;
 }
-
- /* ================================== Overview Section ================================= */
-
 .avatar-overview{
     padding-top: 50px;
 }
@@ -231,4 +229,5 @@ hr.header-end-line {
 
 .episodes-item p{
     color:#727272;
+    font-size:15px;
 }
